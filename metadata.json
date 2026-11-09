@@ -1,0 +1,6 @@
+{
+  "name": "Shaan-E-Punjab Hotel & Resort",
+  "description": "Official website for Shaan-E-Punjab Hotel & Resort on NH-19 near Topchanchi Lake, Dhanbad, Jharkhand. Luxury stays, authentic dining, and royal celebrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
